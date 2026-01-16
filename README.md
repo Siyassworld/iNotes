@@ -28,5 +28,5 @@ LocalStorage API   	Data persistence
 
 Contributing
 
-Fork the repo, create a feature branch, add changes, and submit a PR. Report issues via GitHub Issues-focus on beginner-friendly fixes like UI tweaks.<img width="925" height="1017" alt="image" src="https://github.com/user-attachments/assets/35e46d77-380f-462a-9eb1-e242cbedeb5f" />
+Fork the repo, create a feature branch, add changes, and submit a PR. Report issues via GitHub Issues-focus on beginner-friendly fixes like UI tweaks.
 # iNotes
