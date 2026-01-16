@@ -35,13 +35,18 @@ Usage
 
 Tech stack
 
+
 Technology        	Purpose
-HTML/CSS	          Core structure and styling
+
+HTML/CSS	          Core structure& style         
+
 JavaScript    	    Respons
+
 LocalStorage API   	Data persistence
 
 
 Contributing
+
 
 
 Fork the repo, create a feature branch, add changes, and submit a PR. Report issues via GitHub Issues-focus on beginner-friendly fixes like UI tweaks.
