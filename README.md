@@ -36,13 +36,13 @@ Usage
 Tech stack
 
 
-Technology        	Purpose
+Technology     -   	Purpose
 
-HTML/CSS	          Core structure& style         
+HTML/CSS	 -         Core structure& style         
 
-JavaScript    	    Respons
+JavaScript    -	    Respons
 
-LocalStorage API   	Data persistence
+LocalStorage API  - 	Data persistence
 
 
 Contributing
