@@ -51,3 +51,6 @@ Contributing
 
 Fork the repo, create a feature branch, add changes, and submit a PR. Report issues via GitHub Issues-focus on beginner-friendly fixes like UI tweaks.
 # iNotes
+
+# My Project
+Check out the site:  https://siyassworld.github.io/iNotes/
